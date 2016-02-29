@@ -21,9 +21,10 @@ __Solution:__ [Part_4-Real_Case/Solution](Part_4-Real_Case/Solution.md)
 
 ## Part 5: Link
 
+__Solution:__ [Part_5-Link/Solution](Part_5-Link/Solution.md)
+
 ## Part 6: Compose
 
-
-
+__Solution:__ [Part_6-Docker_Compose/Solution](Part_6-Docker_Compose/Solution.md)
 
 
