@@ -21,7 +21,7 @@ Linux b63e982a8593 4.1.13-boot2docker #1 SMP Fri Nov 20 19:05:50 UTC 2015 x86_64
 * Using Bash (/bin/sh) in interactive mode
 
 ```sh
-$ docker run -it busybox /bash/sh
+$ docker run -it busybox /bin/sh
 / #
 ```
 * Run a 'Hello world' when in interactive mode
