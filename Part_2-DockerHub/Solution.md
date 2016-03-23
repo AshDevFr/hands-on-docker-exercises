@@ -11,7 +11,7 @@ $ docker pull alpine:3.3
 * Run an interactive shell with alpine
 
 ```sh
-$ docker run -it --name alpine-node alpine:3.3
+$ docker run -it --name alpine-node alpine:3.3 /bin/sh
 / # 
 ``` 
 
